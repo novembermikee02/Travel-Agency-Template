@@ -5,7 +5,7 @@ It's a free HTML and CSS Travel Agency website template that follows all of the 
 
 ## Demo
 
-https://novembermikee02.github.io/travel-agency-website/
+https://novembermikee02.github.io/Travel-Agency-Template/
 
 
 ## Feedback
